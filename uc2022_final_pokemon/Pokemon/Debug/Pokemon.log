@@ -1,0 +1,3 @@
+﻿  pokemon.cpp
+C:\Git\uc2022_final_pokemon\Pokemon\pokemon.cpp(212,6): warning C4101: 'pok': unreferenced local variable
+  Pokemon.vcxproj -> C:\Git\uc2022_final_pokemon\Debug\Pokemon.exe
